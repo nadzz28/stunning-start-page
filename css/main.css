@@ -31,7 +31,11 @@ header {
   margin-bottom: 1.5rem;
 }
 
-
+header > h1 {
+  grid-area: center;
+  z-index: 0;
+  margin: 0;
+}
 
 nav {
   background-color: #bd027d;
