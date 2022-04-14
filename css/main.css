@@ -1,4 +1,10 @@
-
+html {
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  color: #323232;
+  background-color: #bebebe;
+}
 
 *,
 *::before,
